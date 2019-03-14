@@ -7,4 +7,5 @@ public interface TestInterface {
 	void test3();
 
 	// 分支修改后代码
+	void test4();
 }
