@@ -6,5 +6,5 @@ public interface TestInterface {
 
 	void test3();
 
-	void test4();
+	// 分支修改后代码
 }
